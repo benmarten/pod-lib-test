@@ -56,6 +56,7 @@
 		A709AC74C13D9B81BB6DAA5A1941677B /* lib2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = lib2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A942B91585428A9566EAB104ED6094AF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AD6F15A52B1E6457AB0673B91B908159 /* lib2-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "lib2-dummy.m"; sourceTree = "<group>"; };
+		B5A47A351D5E34E400BD22A6 /* ReplaceMe.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ReplaceMe.h; sourceTree = "<group>"; };
 		BECCD5C013B0ADCD6B89A570AB0C49CA /* lib2.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = lib2.modulemap; sourceTree = "<group>"; };
 		C5D87A1394ED68443CDA1598C88DA642 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 		C80D3B894A82445ADDBA25F3C0DEF2A8 /* Pods-lib2_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-lib2_Example.modulemap"; sourceTree = "<group>"; };
@@ -135,6 +136,7 @@
 			isa = PBXGroup;
 			children = (
 				C5D87A1394ED68443CDA1598C88DA642 /* ReplaceMe.m */,
+				B5A47A351D5E34E400BD22A6 /* ReplaceMe.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
