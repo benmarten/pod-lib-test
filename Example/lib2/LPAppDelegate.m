@@ -12,10 +12,10 @@
 //#import <ReplaceMe.m>
 //#import <lib2/ReplaceMe.m>
 
-//#import "ReplaceMe.h"
-//#import "lib2/ReplaceMe.h"
-//#import <ReplaceMe.h>
-#import <lib2/ReplaceMe.h>
+#import "ReplaceMe.h"
+////#import "lib2/ReplaceMe.h"
+////#import <ReplaceMe.h>
+//#import <lib2/ReplaceMe.h>
 
 @implementation LPAppDelegate
 
