@@ -7,6 +7,10 @@
 //
 
 #import "LPAppDelegate.h"
+#import "ReplaceMe.m"
+//#import "lib2/ReplaceMe.m"
+//#import <ReplaceMe.m>
+//#import <lib2/ReplaceMe.m>
 
 @implementation LPAppDelegate
 
